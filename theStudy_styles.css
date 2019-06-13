@@ -1,0 +1,13 @@
+header{
+
+    border: 6px solid black;
+    border-radius: 3px;
+    background-color: rgb(50, 8, 90);
+    position: relative;
+    color: rgb(207, 207, 207);
+    text-align: center;
+}
+body{
+
+    background-color: rgb(58, 57, 56);
+}
